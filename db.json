@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "iPhone 13 Pro MAX",
+      "category": "Electronics",
+      "status": "Brand New",
+      "price": 900,
+      "comment": "New sealed iPhone",
+      "date": "2022-09-08T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "iPhone 12 Pro MAX",
+      "category": "Electronics",
+      "status": "Brand New",
+      "price": 700,
+      "comment": "New sealed iPhone 12 pro MAX",
+      "date": "2022-09-08T22:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
